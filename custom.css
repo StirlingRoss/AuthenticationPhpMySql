@@ -1,0 +1,27 @@
+
+/* 
+    Created on : Sep 30, 2014, 1:35:52 PM
+    Author     : Stirling
+*/
+
+body{
+    background-color: #999999;
+}
+legend {
+    display: block;
+    padding-left: 2px;
+    padding-right: 2px;
+    border: none;
+    background-color: sandybrown;
+} 
+fieldset{
+    width: 250px;
+    display: block;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding: 10px;
+    border: 4px black groove;
+}
+input{
+    margin: 10px;
+}
